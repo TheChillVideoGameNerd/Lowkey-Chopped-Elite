@@ -1,4 +1,7 @@
 Lowkey Chopped Elite is an UBG site with 100+ games and a Scramjet proxy!
+Old Link (has more games, broken ui): https://sigeonpex.w3spaces.com
+New Link (has less games, better ui): https://choppedelite.w3spaces.com 
+
 
 LORE (only read this if u wanna know why its named "Lowkey Chopped"):
 
